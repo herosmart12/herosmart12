@@ -1,0 +1,9 @@
+- 👋 Hi, I’mahmood 
+- 👩‍💻 I’m admin herosmart.ir ...
+- 🌱 I’m wordperrs programming ...
+- 💞️ I’love wordperss ...
+
+<!---
+herosmart12/herosmart12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
